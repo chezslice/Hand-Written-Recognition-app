@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hand Written Recognition app", "Hand Written Recognition app\Hand Written Recognition app.pyproj", "{0F4820A0-F1FB-4555-AF6D-8E1ACC3558F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4820A0-F1FB-4555-AF6D-8E1ACC3558F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4820A0-F1FB-4555-AF6D-8E1ACC3558F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5390E05B-19E6-4DB5-A3F3-BE5428EFB27C}
+	EndGlobalSection
+EndGlobal
